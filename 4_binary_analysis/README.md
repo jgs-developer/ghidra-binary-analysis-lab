@@ -43,5 +43,4 @@ The Ghidra interface provides several panels that assist the reverse engineering
 
 These tools allow analysts to explore how the executable works internally and understand the logic of the program.
 
-The binary is now fully loaded and analyzed, allowing deeper reverse engineering and inspection of the program structure.
-
+Ghidra automatically analyzed the imported ELF executable, identifying its architecture, program sections, functions, external library references and generating a disassembly view that allows the internal logic of the program to be inspected.
