@@ -59,20 +59,20 @@ This structure allows the reader to follow the reverse engineering process step 
 
 The repository is organized into the following sections:
 
-* **1_installation**
-  Installation of the Ghidra framework and preparation of the working environment.
+📁 **1_installation**  
+Installation of the Ghidra framework and preparation of the working environment.
 
-* **2_setup**
-  Launching Ghidra and creating the analysis project.
+📁 **2_setup**  
+Launching Ghidra and creating the analysis project.
 
-* **3_binary_import**
-  Importing the selected executable into the Ghidra workspace.
+📁 **3_binary_import**  
+Importing the selected executable into the Ghidra workspace.
 
-* **4_binary_analysis**
-  Automatic analysis of the binary and inspection of disassembly and decompiled code.
+📁 **4_binary_analysis**  
+Automatic analysis of the binary and inspection of disassembly and decompiled code.
 
-* **images**
-  Folder containing the screenshots used throughout the documentation.
+📁 **images**  
+Folder containing the screenshots used throughout the documentation.
 
 ---
 
