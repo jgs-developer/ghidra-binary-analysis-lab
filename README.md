@@ -84,8 +84,4 @@ The `/bin/ls` executable was selected because it is a standard Linux binary that
 
 ## Conclusion
 
-This repository demonstrates the basic use of **Ghidra** for reverse engineering and binary inspection. Through a structured laboratory approach, the project shows how a compiled executable can be imported, analyzed and interpreted using disassembly and decompilation tools.
-
-Understanding these techniques is fundamental in cybersecurity, especially in fields such as malware analysis, vulnerability research and software auditing.
-
-This repository demonstrates the basic workflow of reverse engineering using Ghidra, from installation to automated binary analysis of a Linux ELF executable.
+This repository demonstrates the basic use of **Ghidra** for reverse engineering and binary inspection. Through a structured laboratory approach, the project shows how a compiled executable can be imported, analyzed and interpreted using disassembly and decompilation tools. This repository demonstrates the basic workflow of reverse engineering using Ghidra, from installation to automated binary analysis of a Linux ELF executable.
