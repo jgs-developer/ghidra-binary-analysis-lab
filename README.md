@@ -1,5 +1,13 @@
 # Ghidra Binary Analysis Lab
+## Table of Contents
 
+- [Summary](#summary)
+- [About Ghidra](#about-ghidra)
+- [Project Objectives](#project-objectives)
+- [Practical Lab Overview](#practical-lab-overview)
+- [Repository Structure](#repository-structure)
+- [Laboratory Environment](#laboratory-environment)
+- [Conclusion](#conclusion)
 ## Summary
 
 This repository presents a practical laboratory demonstrating the use of **Ghidra**, an open-source reverse engineering framework used for binary analysis and software inspection.
