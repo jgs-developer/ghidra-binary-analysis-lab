@@ -5,8 +5,8 @@
 - [About Ghidra](#about-ghidra)
 - [Project Objectives](#project-objectives)
 - [Practical Lab Overview](#practical-lab-overview)
-- [Repository Structure](#repository-structure)
 - [Laboratory Environment](#laboratory-environment)
+- [Laboratory Workflow](#laboratory-workflow)
 - [Conclusion](#conclusion)
 ## Summary
 
