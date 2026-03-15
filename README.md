@@ -60,9 +60,6 @@ The workflow followed during the analysis is the following:
 4. Performing automatic analysis and exploring the results
 
 This structure allows the reader to follow the reverse engineering process step by step.
-## Laboratory Workflow
-
-📦 **Installation** → ⚙️ **Setup** → 📥 **Binary Import** → 🔬 **Binary Analysis**
 
 ---
 
@@ -99,6 +96,10 @@ The laboratory was performed in the following environment:
 | Target Binary    | `/bin/ls`                             |
 
 The `/bin/ls` executable was selected because it is a standard Linux binary that allows the reverse engineering workflow to be demonstrated clearly.
+
+## Laboratory Workflow
+
+📦 **Installation** → ⚙️ **Setup** → 📥 **Binary Import** → 🔬 **Binary Analysis**
 
 ---
 
