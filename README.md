@@ -60,6 +60,9 @@ The workflow followed during the analysis is the following:
 4. Performing automatic analysis and exploring the results
 
 This structure allows the reader to follow the reverse engineering process step by step.
+## Laboratory Workflow
+
+📦 **Installation** → ⚙️ **Setup** → 📥 **Binary Import** → 🔬 **Binary Analysis**
 
 ---
 
